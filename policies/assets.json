@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE24", 
+            "course": "cse24", 
             "name": "IIITH_Natural_Language_Processing.JPG", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIITH_Natural Language Processing.JPG", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE24+Anytime+type@asset+block@IIITH_Natural_Language_Processing.JPG", 
+        "filename": "asset-v1:Virtual-Labs+cse24+Anytime+type@asset+block@IIITH_Natural_Language_Processing.JPG", 
         "import_path": "IIITH_Natural Language Processing.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "CSE24", 
+            "Virtual-Labs", 
+            "cse24", 
             "thumbnail", 
             "IIITH_Natural_Language_Processing-JPG.jpg", 
             null
